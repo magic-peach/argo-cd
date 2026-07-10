@@ -634,7 +634,7 @@ show-go-version: test-tools-image
 	@echo -n "Docker Go version: "
 	$(call run-in-test-client,go version)
 
-# Installs all tools required to build and test ArgoCD locally
+# Installs all tools required to build and test Argo CD locally
 .PHONY: install-tools-local
 install-tools-local: install-test-tools-local install-codegen-tools-local install-go-tools-local
 
@@ -674,6 +674,7 @@ run-pnpm: test-tools-image
 run-pnpm-local:
 	cd ui && pnpm $(PNPM_COMMAND)
 
+.PHONY: start-test-k8s
 start-test-k8s:
 	go run ./hack/k8s
 
