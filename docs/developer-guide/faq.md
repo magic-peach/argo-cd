@@ -21,7 +21,7 @@ High quality reviews are extremely encouraged from the community. A member/revie
 
 ### Why has my PR been declined? I put so much work into it!
 
-We appreciate that you have put your valuable time and know how into a contribution. Alas, some changes do not fit into the overall ArgoCD philosophy, and therefore can't be merged into the official ArgoCD source tree.
+We appreciate that you have put your valuable time and know how into a contribution. Alas, some changes do not fit into the overall Argo CD philosophy, and therefore can't be merged into the official Argo CD source tree.
 
 To be on the safe side, make sure that you have created an Enhancement Proposal for your change before starting to work on your PR and have gathered enough feedback from the community and the maintainers.
 

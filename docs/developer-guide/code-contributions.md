@@ -60,7 +60,7 @@ The process works as follows:
 
 Triage of enhancement proposals is performed transparently, offline using issue comments and online in our weekly contributor's meeting. _Everyone_ is invited to participate in triaging, the process is not limited to participation only by maintainers.
 
-Usually, we will triage enhancement proposals in a First-In-First-Out order, which mean that oldest proposals will be triaged first.
+Usually, we will triage enhancement proposals in a First-In-First-Out order, which means that the oldest proposals will be triaged first.
 
 We aim to triage at least 10 proposals a week. Depending on our available time, we may be triaging a higher or lower number of proposals in any given week.
 
